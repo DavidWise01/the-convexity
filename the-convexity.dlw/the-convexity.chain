@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 2025
+slug  : the-convexity
+seal  : b3908d98f9cc3ebd04fc1db9bae92f270854d70fabdc5a99a30cefc569fa30fa
+prev  : de5bdb5f2cf682302950cb61623f182953134cb2a7bdd699895f06477fc608ab
+link  : 404e5d198c21729236c8a54668de11a0d197e0078304c4c0fc8a197974bbb49b
+head  : 58f75ea3c16dd15335248556958063e570baa7539297979cbe1e5c5c960c2ca4
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
